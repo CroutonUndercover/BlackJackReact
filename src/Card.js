@@ -21,7 +21,7 @@ class Card extends React.Component {
                 return(
                     <Fragment >
                         <img className = 'dib br4 ma2 grow bw3 shadow-5' 
-                        src={`../assets/cards/${this.props.id}.png`} 
+                        src={`/blackjackreact/assets/cards/${this.props.id}.png`} 
                         alt="" height="200" width="150"
                         onClick={this.isClicked.bind(this)}/>
                     
@@ -36,7 +36,7 @@ class Card extends React.Component {
             return(
                 <Fragment >
                         <img className = 'dib br4 ma2 bw3 shadow-5' 
-                        src={`/assets/cards/${this.props.id}.png`} 
+                        src={`/blackjackreact/cards/${this.props.id}.png`} 
                         alt="" height="200" width="150"
                         />
                  </Fragment>

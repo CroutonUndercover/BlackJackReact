@@ -8,7 +8,7 @@ const Control = ({clickChange}) =>{
             <div >
                 <img 
             className = 'dib br4 ma1 bw3 shadow-5' 
-            src="/assets/cardback.png" 
+            src="/blackjackreact/assets/cardback.png" 
             alt="" height="200" width="150"/>
             </div>
             <button className='br3 f7 ma1 grow shadow-5' onClick={clickChange}>  <h1>HIT</h1>  </button>
