@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8555cc0ce9d062fc84abb16ec35f0025",
+    "revision": "1fdf8364515a50fa37e404706f6cc00b",
     "url": "/blackjackreact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blackjackreact/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "8e9a0ab467eef9516c8d",
+    "revision": "c197e2d7a7f1e0ed6ab2",
     "url": "/blackjackreact/static/css/main.2ceee1d2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blackjackreact/static/js/2.beaf7e86.chunk.js"
   },
   {
-    "revision": "8e9a0ab467eef9516c8d",
-    "url": "/blackjackreact/static/js/main.84ea566e.chunk.js"
+    "revision": "c197e2d7a7f1e0ed6ab2",
+    "url": "/blackjackreact/static/js/main.1dda00d1.chunk.js"
   },
   {
     "revision": "f3d2b287bd9cc73c56f9",
