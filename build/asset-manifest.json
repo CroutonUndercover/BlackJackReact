@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d3ef981.chunk.css",
+    "main.js": "/static/js/main.68d72f4a.chunk.js",
+    "main.js.map": "/static/js/main.68d72f4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b37a0f03.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b37a0f03.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.beaf7e86.chunk.js": "/static/js/2.beaf7e86.chunk.js",
+    "static/js/2.beaf7e86.chunk.js.map": "/static/js/2.beaf7e86.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3dcaccbbec8b5f78ba106ca421bc4be2.js": "/precache-manifest.3dcaccbbec8b5f78ba106ca421bc4be2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.7d3ef981.chunk.css.map": "/static/css/main.7d3ef981.chunk.css.map",
+    "static/media/App.css": "/static/media/braveheart_dafont.0596c0f7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b37a0f03.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.beaf7e86.chunk.js",
+    "static/css/main.7d3ef981.chunk.css",
+    "static/js/main.68d72f4a.chunk.js"
+  ]
+}
